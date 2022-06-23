@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TelaPrincipal</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="ex">Exercícios</string>
+    <string name="sobre">Sobre</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="idade">Idade</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="altura">Altura (Cm)</string>
+    <string name="genero">Sexo</string>
+    <string name="female">Feminino</string>
+    <string name="male">Masculino</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="about">Sobre e Créditos</string>
+    <string name="envolvidas">A nossa equipe é formada por desenvolvedores aspirantes da UNIFACS. A equipe formada por: Darlan Santos de Carvalho, Giovane Silva de Souza, Quédma Rocha dos Santos, Genilson e Danilo Queiroz dos Santos</string>
+    <string name="proposito">O nosso app é feito para ajudar a população a acompanhar os seus treinos e fazer uma avaliação da sua melhora ao longo do tempo.</string>
+    <string name="tipo_ex">Tipos de exercício</string>
+    <string name="und_vel">Unidade de velocidade</string>
+    <string name="orientacao">Orientação do mapa</string>
+    <string name="tipo_mapa">Tipo de mapa</string>
+    <string name="bicicleta">Bicicleta</string>
+    <string name="corrida">Corrida</string>
+    <string name="Km">Km/h (Quilômetros por hora)</string>
+    <string name="Ms">M/s (Metros por segundo)</string>
+    <string name="norte">North Up</string>
+    <string name="curso">Course Up</string>
+    <string name="sat">Satelite</string>
+    <string name="vetor">Vetorial</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

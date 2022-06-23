@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Main Screen</string>
+    <string name="cadastro">Sign Up</string>
+    <string name="ex">Exercises</string>
+    <string name="sobre">About</string>
+    <string name="nome_completo">Complete Name</string>
+    <string name="idade">Age</string>
+    <string name="peso">Weight (Kg)</string>
+    <string name="altura">Height (Cm)</string>
+    <string name="genero">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="cadastrar">Sign Up</string>
+    <string name="about">About and Credits</string>
+    <string name="envolvidas">Our team is developed by aspiring UNIFACS developers. The team defined by: Darlan Santos de Carvalho, Giovane Silva de Souza, Quédma Rocha dos Santos, Genilson and Danilo Queiroz dos Santos</string>
+    <string name="proposito">Our app is designed to help the population monitor their workouts and assess their improvement over time.</string>
+    <string name="tipo_ex">Exercise types</string>
+    <string name="und_vel">Speed Unit</string>
+    <string name="orientacao">Map orientation</string>
+    <string name="tipo_mapa">Map type</string>
+    <string name="bicicleta">Bicycle</string>
+    <string name="corrida">Run</string>
+    <string name="Km">Km/h (Kilometers per hour)</string>
+    <string name="Ms">M/s (Meters per second)</string>
+    <string name="norte">North Up</string>
+    <string name="curso">Course Up</string>
+    <string name="sat">Satellite</string>
+    <string name="vetor">Vector</string>
+</resources>
